@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Сертификаты
+## Certificates
 <!-- CREDLY-BADGES:START -->
 🏅 **Industry Certifications**
 
