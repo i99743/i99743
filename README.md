@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 </div>
 
-https://www.credly.com/badges/5f076cf7-b00b-4590-b6c4-a8e45b698a9b
+
 <!-- CREDLY-BADGES:END -->
