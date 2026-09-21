@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/7fac32de-9a2a-44af-ba76-df1acbec6c42" title="Linux Unhatched"><img src="https://images.credly.com/size/100x100/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Linux Unhatched" width="100" height="100"></a>
 
 </div>
+
+https://www.credly.com/badges/5f076cf7-b00b-4590-b6c4-a8e45b698a9b
 <!-- CREDLY-BADGES:END -->
