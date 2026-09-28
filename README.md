@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Certificates
 <!-- CREDLY-BADGES:START -->
-🏅 **Industry Certifications**
-
-<div align="center">
-
-
-</div>
-
 📚 **Knowledge & Learning Badges**
 
 <div align="center">
