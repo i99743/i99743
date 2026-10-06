@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/3410e7ce-ddab-46ee-a339-f3ee74756257" title="Information Technology Fundamentals"><img src="https://images.credly.com/size/100x100/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="Information Technology Fundamentals" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/062e14d2-2c82-4c22-9aff-b0fc4fe354ea" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/3a3a8731-ee0b-4d21-9752-94871c416fa7" title="Introduction to Greenhouse Gas Accounting for IT"><img src="https://images.credly.com/size/100x100/images/687574ff-1cd6-46e7-8a04-a440276be933/blob" alt="Introduction to Greenhouse Gas Accounting for IT" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/5f076cf7-b00b-4590-b6c4-a8e45b698a9b" title="Linux Essentials"><img src="https://images.credly.com/size/100x100/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" alt="Linux Essentials" width="100" height="100"></a>
