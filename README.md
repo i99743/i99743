@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/27e1d357-170a-4473-9f4d-9f49025b8c4b" title="Journey to Cloud: Transforming your Culture"><img src="https://images.credly.com/size/100x100/images/65a520cd-e087-446c-8fce-e39122dba1af/image.png" alt="Journey to Cloud: Transforming your Culture" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/3410e7ce-ddab-46ee-a339-f3ee74756257" title="Information Technology Fundamentals"><img src="https://images.credly.com/size/100x100/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="Information Technology Fundamentals" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/062e14d2-2c82-4c22-9aff-b0fc4fe354ea" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/3a3a8731-ee0b-4d21-9752-94871c416fa7" title="Introduction to Greenhouse Gas Accounting for IT"><img src="https://images.credly.com/size/100x100/images/687574ff-1cd6-46e7-8a04-a440276be933/blob" alt="Introduction to Greenhouse Gas Accounting for IT" width="100" height="100"></a>
