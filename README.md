@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/c746ec1f-ff78-4b13-90e5-0569ed154509" title="Cybersecurity Fundamentals"><img src="https://images.credly.com/size/100x100/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Cybersecurity Fundamentals" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/27e1d357-170a-4473-9f4d-9f49025b8c4b" title="Journey to Cloud: Transforming your Culture"><img src="https://images.credly.com/size/100x100/images/65a520cd-e087-446c-8fce-e39122dba1af/image.png" alt="Journey to Cloud: Transforming your Culture" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/3410e7ce-ddab-46ee-a339-f3ee74756257" title="Information Technology Fundamentals"><img src="https://images.credly.com/size/100x100/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="Information Technology Fundamentals" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/062e14d2-2c82-4c22-9aff-b0fc4fe354ea" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="100" height="100"></a>
