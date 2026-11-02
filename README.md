@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/09b6ea1c-e300-433f-8184-58bff9adf383" title="AI Fundamentals: Foundations for Understanding AI"><img src="https://images.credly.com/size/100x100/images/e0644ccc-dd87-4e27-82e4-0facf461cd1f/AI_20Fundamentals_20Foundations_20for_20Understanding_20AI.png" alt="AI Fundamentals: Foundations for Understanding AI" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/793f1220-15ba-4004-b377-ca8343231a06" title="Cloud Computing Fundamentals"><img src="https://images.credly.com/size/100x100/images/5624b38a-5471-4d5c-a2bd-f4575babaa61/image.png" alt="Cloud Computing Fundamentals" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/c746ec1f-ff78-4b13-90e5-0569ed154509" title="Cybersecurity Fundamentals"><img src="https://images.credly.com/size/100x100/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Cybersecurity Fundamentals" width="100" height="100"></a>
 <a href="https://www.credly.com/badges/27e1d357-170a-4473-9f4d-9f49025b8c4b" title="Journey to Cloud: Transforming your Culture"><img src="https://images.credly.com/size/100x100/images/65a520cd-e087-446c-8fce-e39122dba1af/image.png" alt="Journey to Cloud: Transforming your Culture" width="100" height="100"></a>
